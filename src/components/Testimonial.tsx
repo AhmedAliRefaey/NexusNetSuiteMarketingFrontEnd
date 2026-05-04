@@ -10,17 +10,17 @@ export const Testimonial = () => {
           </div>
           <div className="relative">
             <p className="font-display text-2xl md:text-3xl lg:text-4xl font-medium leading-tight text-secondary text-balance">
-              "We consolidated seven legacy systems onto Oracle NetSuite Industrial in
-              under nine months. We now close the books in 3 days, and our plant
-              managers see live OEE on their phones."
+              What is our current working capital across all Eastern Province warehouses?" or 
+              "Show me the variance report for the latest production run,
+              " and the AI will pull the exact, real-time data from NetSuite securely.
             </p>
             <div className="mt-10 flex items-center gap-4 border-t border-border pt-6">
               <div className="h-12 w-12 rounded-full bg-gradient-red flex items-center justify-center font-display font-bold text-white">
                 MK
               </div>
               <div>
-                <div className="font-semibold text-secondary">Marcus Klein</div>
-                <div className="text-sm text-muted-foreground">CIO, Heinrich Industrial Group · 14 plants, 6 countries</div>
+                <div className="font-semibold text-secondary">Ahmed Ali Refaey</div>
+                <div className="text-sm text-muted-foreground">Software Integration Director</div>
               </div>
             </div>
           </div>
