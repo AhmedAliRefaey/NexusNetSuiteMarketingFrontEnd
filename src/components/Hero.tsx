@@ -31,8 +31,8 @@ export const Hero = () => {
             </span>
           </h1>
           <p className="mt-6 max-w-xl text-lg text-white/75 leading-relaxed">
-            One unified ERP, financials, supply chain and manufacturing platform —
-            engineered for industrial operators who can't afford downtime.
+           Securely connects your NetSuite ERP to advanced AI models using the Model Context Protocol (MCP). 
+           Instantly query inventory, generate ZATCA-compliant reports, and automate your shop floor using natural language.
           </p>
 
           <div className="mt-8 flex flex-wrap gap-3">
