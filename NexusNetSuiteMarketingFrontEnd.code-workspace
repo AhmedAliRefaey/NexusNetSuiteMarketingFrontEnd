@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../project/dist"
+		},
+		{
+			"path": "../project/node_modules"
+		},
+		{
+			"path": "../project/.sixth"
+		},
+		{
+			"path": "../project/.workspace"
+		},
+		{
+			"path": "../project/public"
+		},
+		{
+			"path": "../project/src"
+		},
+		{
+			"path": "../project/supabase"
+		}
+	],
+	"settings": {
+		"suitecloud.developerAssistant.disableWelcomeNotification": true
+	}
+}
