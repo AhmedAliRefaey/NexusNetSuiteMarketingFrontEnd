@@ -93,17 +93,17 @@ export default function Contact() {
               </div>
               <div className="space-y-2">
                 <Label htmlFor="phone">Phone</Label>
-                <Input id="phone" name="phone" type="tel" placeholder="+1 (555) 000-0000" />
+                <Input id="phone" name="phone" type="tel" placeholder="+966545327215" />
               </div>
             </div>
             <div className="grid sm:grid-cols-2 gap-5">
               <div className="space-y-2">
                 <Label htmlFor="company">Company</Label>
-                <Input id="company" name="company" required placeholder="Acme Manufacturing" />
+                <Input id="company" name="company" required placeholder="T-Sab Tech Advisor bureau" />
               </div>
               <div className="space-y-2">
                 <Label htmlFor="industry">Industry</Label>
-                <Input id="industry" name="industry" placeholder="Manufacturing, Energy, ..." />
+                <Input id="industry" name="industry" placeholder="Specialized in Oracle NetSuite solutions for Industrial Operations" />
               </div>
             </div>
             <div className="space-y-2">
