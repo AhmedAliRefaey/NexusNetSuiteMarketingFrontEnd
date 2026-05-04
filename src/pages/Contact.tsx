@@ -143,23 +143,17 @@ export default function Contact() {
                 <Mail className="h-4 w-4 text-primary mt-1 shrink-0" />
                 <div>
                   <p className="font-medium text-secondary">Email</p>
-                  <p className="text-muted-foreground">industrial@netsuite.com</p>
+                  <p className="text-muted-foreground">ahmed@t-sab.com</p>
                 </div>
               </li>
               <li className="flex items-start gap-3">
                 <Building2 className="h-4 w-4 text-primary mt-1 shrink-0" />
                 <div>
                   <p className="font-medium text-secondary">Headquarters</p>
-                  <p className="text-muted-foreground">Austin, Texas, USA</p>
+                  <p className="text-muted-foreground">Riyadh, KSA</p>
                 </div>
               </li>
-              <li className="flex items-start gap-3">
-                <MapPin className="h-4 w-4 text-primary mt-1 shrink-0" />
-                <div>
-                  <p className="font-medium text-secondary">Global offices</p>
-                  <p className="text-muted-foreground">EMEA · APAC · LATAM</p>
-                </div>
-              </li>
+        
             </ul>
           </div>
           <div className="rounded-xl bg-gradient-hero text-white p-6 overflow-hidden relative">
